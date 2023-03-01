@@ -150,7 +150,3 @@ npm install or yarn install
 ## Author
 
 Shivansh Shrivastava
-
----
-# Gnosis-Safe-Multisig
-"# Gnosis-Safe-Multisig" 
